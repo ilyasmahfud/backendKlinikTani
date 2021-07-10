@@ -3,7 +3,7 @@
 ## 1. Project Structure
 ---
 ```bash
-└── jalinappbackend
+└── klinikTani
     ├── configuration                   => Contains configuration files for Spring Boot
     ├── exception                       => Contains custom exception files
     ├── module                          => Contains modules/features files
@@ -15,8 +15,8 @@
     │   │   │   └── response
     │   │   ├── repository              => Contains JPA repository files
     │   │   └── service                 => Contains bussiness logic files
-    │   ├── banking
-    │   └── gamification
+    │   ├── qna
+    │   └── komunitas
     ├── utility                         => Contains utility class files
     └── JalinAppBackendApplication.java => Application main class
 ```
