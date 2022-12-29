@@ -18,5 +18,5 @@
     │   ├── qna
     │   └── komunitas
     ├── utility                         => Contains utility class files
-    └── JalinAppBackendApplication.java => Application main class
+    └── KlinikTaniBackendApplication.java => Application main class
 ```
